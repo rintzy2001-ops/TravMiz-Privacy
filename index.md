@@ -47,11 +47,25 @@ We take reasonable measures to protect information stored through TravMiz. Howev
 
 ## 6. Data Retention and Account Deletion
 
-We retain information for as long as necessary to provide our services and meet applicable legal obligations.
+Users can request account deletion through the account deletion option inside the TravMiz application.
 
-If you wish to request deletion of your account and associated personal information, contact us using the email address below.
+When a deletion request is received:
 
-Some information may need to be retained where required by law or for legitimate security purposes.
+- The account will be locked or deactivated while the request is processed.
+- Account information and related recovery or investigation records may be retained for up to 90 days.
+- Access to these records is restricted to authorised administrators.
+- After the retention period, eligible personal information will be permanently deleted.
+
+Some information may be retained for longer where required by law or necessary for legitimate security purposes.
+
+Users can also contact us by email to request account deletion.
+
+**To request account deletion:**
+
+1. Open the TravMiz application.
+2. Sign in to your account.
+3. Open the account deletion option.
+4. Submit your deletion request.
 
 ## 7. Children's Privacy
 
